@@ -1,0 +1,4 @@
+Following libraries must be installed to run the code:
+(i)   BeautifulSoup4
+(ii)  TextBlob
+(iii) plotpy
